@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-11",
-  "updatedAt": "2026-06-11T20:45:00Z",
-  "exportedAt": "2026-07-01T05:40:09.132Z",
+  "dataAsOf": "2026-07-01",
+  "updatedAt": "2026-07-01T19:56:15.533Z",
+  "exportedAt": "2026-07-01T20:03:59.135Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -73,7 +73,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-oh-sos-voter-portal": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-01",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -508,7 +508,7 @@
       {
         "id": "rule-oh-no-excuse-absentee",
         "topic": "No-excuse absentee (mail) voting",
-        "currentRule": "Any registered Ohio voter may request and vote an absentee ballot without providing a reason. The Ohio Secretary of State mails unsolicited absentee ballot applications to all registered voters before each major election. Voters must return the completed application to their county BOE, which then mails the ballot. For November 2026, applications are expected to be mailed in August 2026.",
+        "currentRule": "Any qualified Ohio voter may vote by absentee ballot, either by mail or in person, without stating a reason. To vote by mail, a voter must submit an absentee ballot application to their county board of elections; applications may be downloaded, requested from the board of elections, or obtained from other authorized sources. Once the board of elections receives and processes a valid application, it mails an absentee ballot to the voter. The Ohio Secretary of State does not state on its elections website that it mails unsolicited absentee ballot applications to all registered voters before each major election or that applications for the November 2026 election will be mailed in August 2026.",
         "status": "active",
         "whyItMatters": "OH-09 voters — including seniors and rural residents in Lucas, Ottawa, Erie, Fulton, Defiance, Henry, and Williams counties — can vote by mail without a reason. The SOS program sends pre-addressed, pre-stamped applications directly to voters.",
         "governingLevel": "statewide",
@@ -909,17 +909,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-11-oh-09-initial",
-      "startedAt": "2026-06-11T20:00:00Z",
-      "completedAt": "2026-06-11T20:45:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 14,
-      "updatesCreated": 0,
+      "id": "run-2026-07-01-oh09-auto",
+      "startedAt": "2026-07-01T19:55:28.427Z",
+      "completedAt": "2026-07-01T19:56:15.533Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 23,
+      "updatesCreated": 1,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Initial build June 11, 2026. OH-09 primary (May 5) is complete: Marcy Kaptur (D, incumbent) vs. Derek Merrin (R, Trump-endorsed) vs. Matthew Althaus (L) set for November 3 general. Ohio SOS certified primary June 7. Key Ohio rules documented: HB 458 photo ID requirement, SB 293 no-grace-period absentee receipt deadline (caused 1,564 rejected ballots in May primary), HB 458 one-drop-box-per-county restriction, HB 472 future mail ID requirement (2027+), voter ID constitutional amendment on November ballot (SJR 10). All 16 election events and 12 voting rules marked needsReview/unconfirmed pending county-level verification with Lucas, Ottawa, Erie, Fulton, Defiance, Henry, and Williams county BOEs."
+      "summary": "Automated refresh completed 2026-07-01 for OH-09. Sources checked: 23. LLM verifications: 15. 1 rule/source content change + 3 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-06-18T20:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-08T19:56:15.533Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
