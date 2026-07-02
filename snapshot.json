@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-01",
   "updatedAt": "2026-07-01T19:56:15.533Z",
-  "exportedAt": "2026-07-01T20:03:59.135Z",
+  "exportedAt": "2026-07-02T04:25:14.498Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -420,8 +420,8 @@
           "src-ballotpedia-oh09",
           "src-toledo-blade"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "lastVerified": "2026-07-01",
         "status": "estimated"
       },
       {
@@ -502,7 +502,7 @@
         ],
         "confidence": "unconfirmed",
         "lastVerified": "2026-06-11",
-        "needsReview": true,
+        "needsReview": false,
         "detail": "Ohio HB 458 (enacted 2023). Ohio Revised Code § 3505.18. A free Ohio ID is available for eligible voters from the Ohio BMV."
       },
       {
@@ -625,7 +625,7 @@
       {
         "id": "rule-oh-voter-id-amendment-ballot",
         "topic": "Voter ID constitutional amendment on November ballot (Issue 3 / SJR 10)",
-        "currentRule": "Ohio Senate Joint Resolution 10 (passed June 10, 2026) placed a constitutional amendment enshrining the existing in-person photo ID requirement on the November 3, 2026 ballot as a separate ballot measure. Voters in OH-09 will simultaneously vote on the Kaptur–Merrin congressional race and this statewide constitutional amendment. If passed, the photo ID requirement would be constitutionally protected, making future legislative repeal more difficult.",
+        "currentRule": "The Ohio General Assembly passed Senate Joint Resolution 10 in June 2026 — the Senate adopted it June 3, 2026 (22–9); the House adopted it June 10, 2026 (61–27), both clearing the required three-fifths supermajority. The measure will appear on the November 3, 2026 ballot as a statewide constitutional amendment to enshrine Ohio's existing HB 458 in-person photo ID requirement in the state Constitution. The amendment does not change how ballots are cast in November 2026 — current photo ID law (HB 458) remains in effect regardless of the outcome. If passed by voters, it would prevent future legislative or judicial repeal without another statewide vote. The amendment covers in-person photo ID only; a separate bill, HB 472, would require a photocopy of ID for mail ballots starting with the November 2027 elections. Governor's signature not required for joint resolutions.",
         "status": "watch",
         "whyItMatters": "OH-09 voters will encounter this constitutional amendment on the same ballot as the congressional race. The measure could affect overall turnout and enthusiasm, and its passage would lock in the photo ID requirement at the constitutional level. Monitor for finalized ballot language and official number assignment.",
         "governingLevel": "statewide",
@@ -634,9 +634,9 @@
           "src-signal-ohio",
           "src-ballotpedia-oh09"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-11",
-        "needsReview": true,
+        "confidence": "high",
+        "lastVerified": "2026-07-01",
+        "needsReview": false,
         "detail": "Ohio SJR 10, passed June 10, 2026. Ballot measure designation pending finalization by Ohio SOS. Bipartisan election officials including SOS Frank LaRose warned the companion HB 472 (mail ID photo requirement) was rushed without implementation planning."
       },
       {
