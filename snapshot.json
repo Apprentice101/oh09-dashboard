@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-01",
-  "updatedAt": "2026-07-01T19:56:15.533Z",
-  "exportedAt": "2026-07-03T00:04:05.053Z",
+  "dataAsOf": "2026-07-03",
+  "updatedAt": "2026-07-03T00:31:31.688Z",
+  "exportedAt": "2026-07-03T00:37:47.827Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -73,7 +73,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-oh-sos-voter-portal": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-01",
+        "lastVerified": "2026-07-03",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -909,17 +909,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-01-oh09-auto",
-      "startedAt": "2026-07-01T19:55:28.427Z",
-      "completedAt": "2026-07-01T19:56:15.533Z",
+      "id": "run-2026-07-03-oh09-auto",
+      "startedAt": "2026-07-03T00:30:37.921Z",
+      "completedAt": "2026-07-03T00:31:31.688Z",
       "triggerType": "scheduled",
       "sourcesChecked": 23,
-      "updatesCreated": 1,
+      "updatesCreated": 0,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-01 for OH-09. Sources checked: 23. LLM verifications: 15. 1 rule/source content change + 3 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-03 for OH-09. Sources checked: 23. LLM verifications: 16. 3 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-08T19:56:15.533Z",
+    "NEXT_REFRESH_AT": "2026-07-10T00:31:31.688Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
