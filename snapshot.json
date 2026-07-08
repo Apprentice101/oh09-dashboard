@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T01:35:43.109Z",
-  "exportedAt": "2026-07-04T00:40:24.868Z",
+  "dataAsOf": "2026-07-08",
+  "updatedAt": "2026-07-08T06:25:55.045Z",
+  "exportedAt": "2026-07-08T06:29:11.889Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-08",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-08",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -909,17 +909,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-03-oh09-auto",
-      "startedAt": "2026-07-03T01:34:57.941Z",
-      "completedAt": "2026-07-03T01:35:43.109Z",
+      "id": "run-2026-07-08-oh09-auto",
+      "startedAt": "2026-07-08T06:25:49.516Z",
+      "completedAt": "2026-07-08T06:25:55.045Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 25,
+      "sourcesChecked": 26,
       "updatesCreated": 0,
-      "conflictsCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for OH-09. Sources checked: 25. LLM verifications: 16. No changes detected; all sources verified unchanged. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-08 for OH-09. Sources checked: 26. LLM verifications: 17. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T01:35:43.109Z",
+    "NEXT_REFRESH_AT": "2026-07-15T06:25:55.045Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
