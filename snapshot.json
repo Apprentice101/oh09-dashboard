@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T06:25:55.045Z",
-  "exportedAt": "2026-07-08T06:29:11.889Z",
+  "updatedAt": "2026-07-08T19:38:50.762Z",
+  "exportedAt": "2026-07-08T19:43:53.157Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -170,7 +170,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-08",
         "confidence": "high"
       },
       "src-toledo-blade": {
@@ -910,16 +910,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-08-oh09-auto",
-      "startedAt": "2026-07-08T06:25:49.516Z",
-      "completedAt": "2026-07-08T06:25:55.045Z",
+      "startedAt": "2026-07-08T19:38:47.253Z",
+      "completedAt": "2026-07-08T19:38:50.762Z",
       "triggerType": "scheduled",
       "sourcesChecked": 26,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for OH-09. Sources checked: 26. LLM verifications: 17. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-08 for OH-09. Sources checked: 26. LLM verifications: 16. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T06:25:55.045Z",
+    "NEXT_REFRESH_AT": "2026-07-15T19:38:50.762Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
