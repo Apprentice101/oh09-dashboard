@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:38:50.762Z",
-  "exportedAt": "2026-07-08T20:35:54.205Z",
+  "exportedAt": "2026-07-09T17:04:48.720Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -691,60 +691,70 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-oh-sos-elections",
-        "label": "Ohio Secretary of State — Elections portal",
-        "url": "https://www.ohiosos.gov/elections/",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Official Ohio elections hub: voter registration, election calendar, county BOE directory, absentee voting, and statewide voting rules. Authoritative source for OH-09 election deadlines and procedures.",
+        "url": "https://www.ohiosos.gov/elections/",
         "governingAuthority": "Ohio Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-oh-sos-elections",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-oh-myvote",
-        "label": "MyVote Ohio — voter registration portal",
-        "url": "https://myaccount.ohiosos.gov/",
+        "id": "res-locations",
+        "label": "Find voting locations",
         "description": "Check your voter registration status, update your address, request an absentee ballot, find your polling location, and track your absentee ballot. Registration deadline for November 2026 general: October 4, 2026.",
-        "governingAuthority": "Ohio Secretary of State",
-        "sourceType": "official-state",
-        "sourceId": "src-oh-sos-voter-portal",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-oh-absentee-tracker",
-        "label": "Ohio Absentee Ballot Tracker (MyVote Ohio)",
         "url": "https://myaccount.ohiosos.gov/",
-        "description": "Track the status of your absentee ballot request and returned ballot via MyVote Ohio. Given the elimination of the grace period under SB 293, voters should confirm receipt of their ballot well before 7:30 PM on Election Day.",
         "governingAuthority": "Ohio Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-oh-sos-voter-portal",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-lucas-boe",
-        "label": "Lucas County Board of Elections",
-        "url": "https://co.lucas.oh.us/77/Board-of-Elections",
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
         "description": "Official elections page for Lucas County voters (Toledo, Oregon, Sylvania, Maumee area) — the most populous county in OH-09. Absentee ballot requests, drop box location, polling places, and canvass updates. Phone: (419) 213-4001.",
+        "url": "https://co.lucas.oh.us/77/Board-of-Elections",
         "governingAuthority": "Lucas County Board of Elections",
         "sourceType": "official-county",
         "sourceId": "src-lucas-boe",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-ottawa-boe",
-        "label": "Ottawa County Board of Elections",
-        "url": "https://www.ottawacountyelections.gov/",
-        "description": "Official elections page for Ottawa County voters (Port Clinton, Marblehead, Put-in-Bay area) along the Lake Erie shore in OH-09. Absentee ballot requests and polling place information.",
-        "governingAuthority": "Ottawa County Board of Elections",
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Check your voter registration status, update your address, request an absentee ballot, find your polling location, and track your absentee ballot. Registration deadline for November 2026 general: October 4, 2026.",
+        "url": "https://myaccount.ohiosos.gov/",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-oh-sos-voter-portal",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Check your voter registration status, update your address, request an absentee ballot, find your polling location, and track your absentee ballot. Registration deadline for November 2026 general: October 4, 2026.",
+        "url": "https://myaccount.ohiosos.gov/",
+        "governingAuthority": "Ohio Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-oh-sos-voter-portal",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official elections page for Lucas County voters (Toledo, Oregon, Sylvania, Maumee area) — the most populous county in OH-09. Absentee ballot requests, drop box location, polling places, and canvass updates. Phone: (419) 213-4001.",
+        "url": "https://co.lucas.oh.us/77/Board-of-Elections",
+        "governingAuthority": "Lucas County Board of Elections",
         "sourceType": "official-county",
-        "sourceId": "src-ottawa-boe",
-        "lastVerified": "2026-06-11"
+        "sourceId": "src-lucas-boe",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-erie-boe",
         "label": "Erie County Board of Elections",
-        "url": "https://www.erieboe.com/",
         "description": "Official elections page for Erie County voters (Sandusky, Huron area) in OH-09. Absentee ballot requests, polling locations, and election results.",
+        "url": "https://www.erieboe.com/",
         "governingAuthority": "Erie County Board of Elections",
         "sourceType": "official-county",
         "sourceId": "src-erie-boe",
@@ -753,8 +763,8 @@
       {
         "id": "res-ballotpedia-oh09",
         "label": "Ballotpedia — OH-09 2026 election",
-        "url": "https://ballotpedia.org/Ohio%27s_9th_Congressional_District_election,_2026",
         "description": "Nonpartisan reference page for OH-09's 2026 election: Kaptur vs. Merrin candidate profiles, primary results, race ratings (Toss Up), and campaign finance summary.",
+        "url": "https://ballotpedia.org/Ohio%27s_9th_Congressional_District_election,_2026",
         "governingAuthority": "Ballotpedia",
         "sourceType": "secondary",
         "sourceId": "src-ballotpedia-oh09",
@@ -763,8 +773,8 @@
       {
         "id": "res-oh-sos-county-boe-directory",
         "label": "Ohio SOS — County Boards of Elections directory",
-        "url": "https://www.ohiosos.gov/elections/voters/county-boards-of-elections/",
         "description": "Complete directory of all 88 Ohio county BOEs with contact information, including all seven OH-09 counties: Lucas, Ottawa, Erie, Fulton, Defiance, Henry, and Williams.",
+        "url": "https://www.ohiosos.gov/elections/voters/county-boards-of-elections/",
         "governingAuthority": "Ohio Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-oh-sos-elections",
@@ -773,8 +783,8 @@
       {
         "id": "res-ohio-free-id",
         "label": "Ohio BMV — Free Voter ID",
-        "url": "https://www.bmv.ohio.gov/dl-id-nondriver.aspx",
         "description": "Eligible Ohio voters who lack a qualifying photo ID for voting can obtain a free Ohio non-driver ID from the Ohio Bureau of Motor Vehicles. Required for in-person voting under HB 458. Available at BMV locations throughout OH-09 counties.",
+        "url": "https://www.bmv.ohio.gov/dl-id-nondriver.aspx",
         "governingAuthority": "Ohio Bureau of Motor Vehicles",
         "sourceType": "official-state",
         "sourceId": "src-oh-sos-elections",
