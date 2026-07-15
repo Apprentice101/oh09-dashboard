@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:38:50.762Z",
-  "exportedAt": "2026-07-09T17:04:48.720Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:32:07.181Z",
+  "exportedAt": "2026-07-15T06:41:19.857Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -916,20 +916,30 @@
         "relevanceSummary": "Former Ohio state Rep. Derek Merrin won a competitive five-candidate Republican primary on May 5, 2026 and was certified as the GOP nominee for OH-09 following Ohio's official canvass completed June 7. The win sets up a direct rematch against 41-year incumbent Rep. Marcy Kaptur (D-Toledo), who narrowly defeated Merrin in 2024 by roughly 2,000 votes. Merrin received a Trump endorsement on May 21 and leads Kaptur 47%–43% in a Republican internal poll, with the race rated Toss Up by major forecasters. An estimated $39 million in total spending has flowed through the district over the two-year cycle, making it one of Ohio's most watched races in 2026.",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0chmbmo",
+        "headline": "Are you ready to vote in 2026?",
+        "sourceName": "Erie County Democratic Party",
+        "url": "https://www.eriecountydems.org/are-you-ready-to-vote-in-2026/",
+        "publishedAt": "2026-06-29",
+        "relevanceSummary": "This voter-information page is directly relevant to OH-09 because Erie County is part of the district and the page highlights Ohio voting requirements, including presenting photo ID. It is useful for district voters checking registration and identification rules before voting.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-oh09-auto",
-      "startedAt": "2026-07-08T19:38:47.253Z",
-      "completedAt": "2026-07-08T19:38:50.762Z",
+      "id": "run-2026-07-15-oh09-auto",
+      "startedAt": "2026-07-15T06:31:07.305Z",
+      "completedAt": "2026-07-15T06:32:07.181Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 26,
-      "updatesCreated": 0,
-      "conflictsCreated": 0,
+      "sourcesChecked": 25,
+      "updatesCreated": 1,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for OH-09. Sources checked: 26. LLM verifications: 16. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-15 for OH-09. Sources checked: 25. LLM verifications: 16. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:38:50.762Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:32:07.181Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
