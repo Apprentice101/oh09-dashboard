@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:32:07.181Z",
-  "exportedAt": "2026-07-15T06:41:19.857Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:43:14.867Z",
+  "exportedAt": "2026-07-22T06:52:44.581Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -926,20 +926,40 @@
         "relevanceSummary": "This voter-information page is directly relevant to OH-09 because Erie County is part of the district and the page highlights Ohio voting requirements, including presenting photo ID. It is useful for district voters checking registration and identification rules before voting.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0t0cb90",
+        "headline": "Darke County Democrats – CRITICAL VOTER ALERT",
+        "sourceName": "Mercer County Outlook",
+        "url": "https://mercercountyoutlook.net/2026/07/19/darke-county-democrats-critical-voter-alert/",
+        "publishedAt": "2026-07-19",
+        "relevanceSummary": "This alert explains that Ohio’s rules for mail-in and absentee voting have recently changed so that ballots must now be physically received by the county Board of Elections by 7:30 PM on Election Day, eliminating the prior post-election grace period; this statewide change affects all Ohio voters, including those in OH-09, who must mail ballots earlier to avoid rejection.[1]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-00by8a0",
+        "headline": "Early Voting & Ballot Drop-Off Information",
+        "sourceName": "Mahoning County Board of Elections",
+        "url": "https://vote.mahoningcountyoh.gov/",
+        "publishedAt": "2026-07-15",
+        "relevanceSummary": "The Mahoning County Board of Elections website provides current details on the official ballot drop-off location at 345 Oak Hill Ave., including the designated circle parking lot drop area, which informs voters from this OH-09 county where they can deliver absentee ballots and access election services.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-oh09-auto",
-      "startedAt": "2026-07-15T06:31:07.305Z",
-      "completedAt": "2026-07-15T06:32:07.181Z",
+      "id": "run-2026-07-22-oh09-auto",
+      "startedAt": "2026-07-22T06:42:19.157Z",
+      "completedAt": "2026-07-22T06:43:14.867Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 25,
-      "updatesCreated": 1,
+      "sourcesChecked": 22,
+      "updatesCreated": 2,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for OH-09. Sources checked: 25. LLM verifications: 16. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-22 for OH-09. Sources checked: 22. LLM verifications: 15. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:32:07.181Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:43:14.867Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
