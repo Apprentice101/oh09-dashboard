@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:47:23.458Z",
-  "exportedAt": "2026-07-29T06:56:18.374Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:40:57.000Z",
+  "exportedAt": "2026-08-05T06:50:06.472Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -946,20 +946,70 @@
         "relevanceSummary": "The Mahoning County Board of Elections website provides current details on the official ballot drop-off location at 345 Oak Hill Ave., including the designated circle parking lot drop area, which informs voters from this OH-09 county where they can deliver absentee ballots and access election services.[2]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0v0kr1r",
+        "headline": "Ohio Ballot Board approves ballot language for proposed voter ID constitutional amendment",
+        "sourceName": "YouTube / Ohio-focused news clip",
+        "url": "https://www.youtube.com/watch?v=7Tv2oq8Bt_U",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "This video segment explains that in a bipartisan 4–1 vote, the Ohio Ballot Board approved the ballot language for a proposed constitutional amendment requiring voter photo ID, with voters to decide the measure on November 3.[2] It provides OH-09 voters with a visual and explanatory overview of what the amendment would do and how it will appear on their ballots.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0fuco5w",
+        "headline": "Ohio board OKs voter ID language for Nov. 3 ballots: Capitol Letter",
+        "sourceName": "Cleveland.com",
+        "url": "https://www.cleveland.com/open/2026/08/ohio-board-oks-voter-id-language-for-nov-3-ballots-capitol-letter.html",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "This Capitol Letter piece notes that the Ohio Ballot Board, in a largely non-contentious meeting, approved the language that will appear on Nov. 3 ballots describing the proposed photo ID constitutional amendment.[3] For OH-09 voters, it explains how the voter ID amendment will be presented on their ballots, shaping how they encounter the issue in the voting booth.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0qbhctl",
+        "headline": "Official language for Ohio's photo ID amendment approved for November ballot",
+        "sourceName": "Cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/08/official-language-for-ohios-photo-id-amendment-approved-for-november-ballot.html",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "Cleveland.com reports that the Ohio Ballot Board finalized the wording and official explanation for Issue 3, which would write the state’s current photo ID rules for in-person voting into the Ohio Constitution and confirms that documents like utility bills and bank statements can no longer be used as voter ID.[4] This clarifies for OH-09 voters which specific IDs are acceptable now and what the November amendment would lock into place.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0mhpcp0",
+        "headline": "Ohio Ballot Board OKs language that puts Issue 3, or photo ID, on ballot",
+        "sourceName": "The Statehouse News Bureau / Ohio News (StatehouseNews.org)",
+        "url": "https://www.statenews.org/government-politics/2026-08-03/ohio-ballot-board-oks-language-that-puts-issue-3-or-photo-id-on-ballot",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "The Ohio Ballot Board approved the official language for Issue 3, a proposed constitutional amendment that would enshrine Ohio’s existing government-issued photo ID requirement for in-person voting into the state constitution, confirming what voters will see on their November ballots and underscoring that photo ID has been required since 2023.[1] This directly affects OH-09 voters’ understanding of current voter ID rules and the stakes of the upcoming constitutional vote.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0wh42ba",
+        "headline": "Voter photo ID amendment on November ballot in Ohio",
+        "sourceName": "WCPO 9 News (state politics section)",
+        "url": "https://www.wcpo.com/news/state/state-ohio",
+        "publishedAt": "2026-07-29",
+        "relevanceSummary": "Within its Ohio politics coverage, WCPO highlights that a voter photo ID amendment will appear on Ohio’s November ballot, following legislative action and debate over tightening ID rules for voting.[6][13] This statewide constitutional question will appear on OH-09 ballots and could further cement voter ID requirements that already apply to district voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-oh09-auto",
-      "startedAt": "2026-07-29T06:46:09.157Z",
-      "completedAt": "2026-07-29T06:47:23.458Z",
+      "id": "run-2026-08-05-oh09-auto",
+      "startedAt": "2026-08-05T06:39:48.505Z",
+      "completedAt": "2026-08-05T06:40:57.000Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 27,
-      "updatesCreated": 0,
-      "conflictsCreated": 0,
+      "sourcesChecked": 25,
+      "updatesCreated": 5,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for OH-09. Sources checked: 27. LLM verifications: 17. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for OH-09. Sources checked: 25. LLM verifications: 15. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:47:23.458Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:40:57.000Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
