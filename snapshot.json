@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:40:57.000Z",
-  "exportedAt": "2026-08-05T06:50:06.472Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:41:14.821Z",
+  "exportedAt": "2026-08-12T05:49:26.326Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -996,20 +996,50 @@
         "relevanceSummary": "Within its Ohio politics coverage, WCPO highlights that a voter photo ID amendment will appear on Ohio’s November ballot, following legislative action and debate over tightening ID rules for voting.[6][13] This statewide constitutional question will appear on OH-09 ballots and could further cement voter ID requirements that already apply to district voters.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-01f4l8o",
+        "headline": "Senate Roll Call Vote 119th Congress - 2nd Session",
+        "sourceName": "U.S. Senate",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00231.htm",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "This Senate roll call shows the rejection of cloture on S. 5271, a federal photo-ID bill for voting in federal elections. Because OH-09 is an Ohio district and Sen. Jon Husted is the bill’s sponsor, the vote is directly relevant to voters tracking potential federal voter-ID changes.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0f4ufua",
+        "headline": "Ohio Ballot Board OKs language that puts Issue 3, or photo ID, on ballot",
+        "sourceName": "WOUB",
+        "url": "https://woub.org/2026/08/06/ohio-ballot-board-oks-language-that-puts-issue-3-or-photo-id-on-ballot/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "Ohio voters, including those in OH-09, will decide Issue 3 on the November ballot, which would make photo ID requirements harder to change by amending the state constitution. The article says Ohio already requires government-issued photo ID for in-person voting and explains the ballot language that will frame the measure for voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0jnewj8",
+        "headline": "A bill to amend the Help America Vote Act of 2002 to require voters to provide photo identification",
+        "sourceName": "Congress.gov",
+        "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5271/text",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "The bill text would require valid physical photo identification for in-person federal voting and, for mail ballots, a copy of photo ID or an affidavit plus the last four digits of Social Security number if a copy cannot be obtained. That makes it highly relevant to OH-09 voters following possible federal ID-rule changes.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-oh09-auto",
-      "startedAt": "2026-08-05T06:39:48.505Z",
-      "completedAt": "2026-08-05T06:40:57.000Z",
+      "id": "run-2026-08-12-oh09-auto",
+      "startedAt": "2026-08-12T05:40:26.909Z",
+      "completedAt": "2026-08-12T05:41:14.821Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 25,
-      "updatesCreated": 5,
+      "sourcesChecked": 26,
+      "updatesCreated": 3,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for OH-09. Sources checked: 25. LLM verifications: 15. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-08-12 for OH-09. Sources checked: 26. LLM verifications: 16. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:40:57.000Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:41:14.821Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
