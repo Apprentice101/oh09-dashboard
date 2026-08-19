@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:41:14.821Z",
-  "exportedAt": "2026-08-12T05:49:26.326Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:59:18.823Z",
+  "exportedAt": "2026-08-19T05:09:24.168Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -1026,20 +1026,90 @@
         "relevanceSummary": "The bill text would require valid physical photo identification for in-person federal voting and, for mail ballots, a copy of photo ID or an affidavit plus the last four digits of Social Security number if a copy cannot be obtained. That makes it highly relevant to OH-09 voters following possible federal ID-rule changes.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-04c9qq4",
+        "headline": "First election under Ohio's new voter ID law is Tuesday",
+        "sourceName": "VoteRiders",
+        "url": "https://voteriders.org/article/first-election-under-ohios-new-voter-id-law-is-tueday-heres-what-you-need-to-know/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Explains implementation of Ohio’s new voter ID law, noting that all registered voters must show a state‑approved photo ID to cast a ballot and outlining which IDs qualify, which directly affects in‑person voting procedures and acceptable identification for OH-09 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0nb2m3o",
+        "headline": "Ohio's summer special election: Know your options and rights",
+        "sourceName": "Signal Cleveland",
+        "url": "https://signalcleveland.org/yes-were-having-a-special-election-in-the-summer-heres-what-you-should-know-about-your-options-and-rights/",
+        "publishedAt": "2026-08-17",
+        "relevanceSummary": "Provides detailed guidance on Ohio special-election procedures, including how to request a mail-in ballot, the availability and location of secure drop boxes, early-voting hours at county boards of elections, acceptable photo IDs for in-person voting, and how to find your polling place; while focused on Cuyahoga County, the voter-ID rules and general procedures reflect statewide law that also governs OH-09.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-02t5t5w",
+        "headline": "Ohio Secretary of State 2026: a full breakdown of Sprague vs. Russo, and why Issue 3 split the Democratic ticket",
+        "sourceName": "Reddit (r/Ohio analysis post)",
+        "url": "https://www.reddit.com/r/Ohio/comments/1vplt57/ohio_secretary_of_state_2026_a_full_breakdown_of/",
+        "publishedAt": "2026-08-16",
+        "relevanceSummary": "Discusses Ohio Issue 3, which would enshrine the existing photo ID requirement in the state constitution, and summarizes acceptable forms of ID and alternative verification options; while partly analytical, it highlights concrete statewide voter-ID rules that apply to OH-09 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0v0bfa2",
+        "headline": "10 things LGBTQ+ Ohioans should know about absentee voting",
+        "sourceName": "The Buckeye Flame",
+        "url": "https://thebuckeyeflame.com/2026/08/14/10-things-lgbtq-ohioans-should-know-about-absentee-voting/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "Explains Ohio's no‑excuse absentee (mail‑in) voting process for the November 2026 general election, including how to request an absentee ballot, deadlines for submitting applications and ballots, options to return ballots by mail or in person to county boards of elections, and the requirement that voters themselves return their ballots—key procedural information that applies to all OH-09 voters statewide.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-02gesfb",
+        "headline": "Want to help? Try becoming a poll worker",
+        "sourceName": "Tribune Chronicle",
+        "url": "https://www.tribtoday.com/opinion/editorials/2026/08/want-to-help-try-becoming-a-poll-worker/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "Encourages Ohioans to serve as poll workers and directs readers to the Ohio Secretary of State’s poll‑worker recruitment portal, highlighting statewide efforts to staff polling locations and ensure smooth election administration—information that can affect polling-place operations in OH-09.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0tlai3a",
+        "headline": "Enshrining voter ID on amendment on Ohio's November ballot",
+        "sourceName": "The Times Leader",
+        "url": "https://www.timesleaderonline.com/news/local-news/2026/08/enshrining-voter-id-on-amendment-on-ohios-november-ballot/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "Reports that an amendment on Ohio’s November 2026 ballot would place the state’s existing voter ID requirement into the Ohio Constitution, clarifying that photo ID is already required by state law and explaining the implications of constitutionalizing these requirements—information directly relevant to OH-09 voters concerned about current and future voter-ID rules.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-004payy",
+        "headline": "Board of Elections – 2026 General Election resources",
+        "sourceName": "Stark County Board of Elections",
+        "url": "https://starkcountyohio.gov/government/offices/board_of_elections/",
+        "publishedAt": "2026-08-12",
+        "relevanceSummary": "Provides administrative information for the 2026 General Election, including absentee ballot request forms and a candidates list, illustrating how an Ohio county board is organizing ballot access and absentee procedures; while specific to Stark County, it reflects county-level administration practices under the same statewide rules that apply to OH-09.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-oh09-auto",
-      "startedAt": "2026-08-12T05:40:26.909Z",
-      "completedAt": "2026-08-12T05:41:14.821Z",
+      "id": "run-2026-08-19-oh09-auto",
+      "startedAt": "2026-08-19T04:57:50.730Z",
+      "completedAt": "2026-08-19T04:59:18.823Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 26,
-      "updatesCreated": 3,
+      "sourcesChecked": 25,
+      "updatesCreated": 7,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for OH-09. Sources checked: 26. LLM verifications: 16. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-08-19 for OH-09. Sources checked: 25. LLM verifications: 15. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:41:14.821Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:59:18.823Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
