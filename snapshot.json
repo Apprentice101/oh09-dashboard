@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:59:18.823Z",
-  "exportedAt": "2026-08-19T05:09:24.168Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T05:05:40.200Z",
+  "exportedAt": "2026-08-26T05:17:21.652Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -1096,20 +1096,70 @@
         "relevanceSummary": "Provides administrative information for the 2026 General Election, including absentee ballot request forms and a candidates list, illustrating how an Ohio county board is organizing ballot access and absentee procedures; while specific to Stark County, it reflects county-level administration practices under the same statewide rules that apply to OH-09.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0rfucf4",
+        "headline": "Judge blocks Ohio from requiring proof of citizenship for voter registration at BMV offices",
+        "sourceName": "Politico",
+        "url": "https://www.politico.com/news/2026/08/25/ohio-voter-registration-citizenship-ruling-01050054",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "A federal judge temporarily blocked Ohio from enforcing a new requirement that voters show proof of citizenship when registering at motor vehicle offices, directly affecting how OH-09 voters can register or update registrations at the BMV and signaling ongoing litigation over voter ID and registration rules.[11]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-080kkcq",
+        "headline": "Ohio: Voter ID and absentee ballot requirements for 2026",
+        "sourceName": "VoteRiders",
+        "url": "https://voteriders.org/states/ohio/",
+        "publishedAt": "2026-08-23",
+        "relevanceSummary": "This voter resource summarizes Ohio’s current photo ID requirements for in-person voting, lists acceptable IDs, explains provisional ballot rules, and describes ID-number or ID-copy requirements for absentee ballot applications and returns, giving OH-09 voters up-to-date practical guidance on voter ID and mail voting.[1]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0pqm5k7",
+        "headline": "Unsolicited voter mailers coming to Ohio homes, state elections chief warns of confusion",
+        "sourceName": "Cleveland.com",
+        "url": "https://www.cleveland.com/open/2026/08/unsolicited-voter-mailers-coming-to-ohio-homes-state-elections-chief-warns-of-confusion.html",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "Ohio’s elections chief warns that unsolicited voter-registration and mail-ballot materials could confuse voters; the article explains official registration requirements, the Oct. 5 registration deadline for the November election, and new absentee ballot receipt rules under Senate Bill 293, all of which govern OH-09 voters statewide.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0gc0qjo",
+        "headline": "Cómo votar en Ohio en 2026: nueva ley de prueba de ciudadanía y plazos",
+        "sourceName": "INCÍSOS",
+        "url": "https://incisos.com/como-votar-ohio-2026-prueba-ciudadania-plazos/",
+        "publishedAt": "2026-08-16",
+        "relevanceSummary": "This Spanish-language guide explains Ohio’s 2026 registration deadline, early-voting period, and no-excuse vote-by-mail options, and discusses a new proof-of-citizenship law and related timelines, providing OH-09’s Spanish-speaking voters with accessible information about statewide election procedures they must follow.[8]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0iaiwte",
+        "headline": "What is Issue 3 in the 2026 Ohio general election?",
+        "sourceName": "NBC4 (WCMH-TV)",
+        "url": "https://www.nbc4i.com/news/your-local-election-hq/what-is-issue-3-in-the-2026-ohio-general-election/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "NBC4 explains that Issue 3 would require government-issued photo ID to vote both in person and by mail, describes acceptable IDs, and notes current absentee ID options, helping OH-09 voters understand proposed changes to voter ID and mail-ballot procedures before the November vote.[5]",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-oh09-auto",
-      "startedAt": "2026-08-19T04:57:50.730Z",
-      "completedAt": "2026-08-19T04:59:18.823Z",
+      "id": "run-2026-08-26-oh09-auto",
+      "startedAt": "2026-08-26T05:03:43.801Z",
+      "completedAt": "2026-08-26T05:05:40.200Z",
       "triggerType": "scheduled",
       "sourcesChecked": 25,
-      "updatesCreated": 7,
+      "updatesCreated": 5,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for OH-09. Sources checked: 25. LLM verifications: 15. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-08-26 for OH-09. Sources checked: 25. LLM verifications: 16. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:59:18.823Z",
+    "NEXT_REFRESH_AT": "2026-09-02T05:05:40.200Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
