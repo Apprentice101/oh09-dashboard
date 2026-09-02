@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T05:05:40.200Z",
-  "exportedAt": "2026-08-26T05:17:21.652Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:55:51.526Z",
+  "exportedAt": "2026-09-02T09:11:18.179Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -1146,20 +1146,100 @@
         "relevanceSummary": "NBC4 explains that Issue 3 would require government-issued photo ID to vote both in person and by mail, describes acceptable IDs, and notes current absentee ID options, helping OH-09 voters understand proposed changes to voter ID and mail-ballot procedures before the November vote.[5]",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0186qn2",
+        "headline": "Ohio Voting Guide: 2026 General Election",
+        "sourceName": "The Buzz Cincy",
+        "url": "https://thebuzzcincy.com/3206735/ohio-general-election-2026/",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "This guide outlines Ohio’s 2026 general election procedures, including voter registration requirements and the 30-day registration deadline, early in-person voting hours, Election Day polling hours, and absentee-by-mail rules such as the October 27 application cutoff and the requirement that non-UOCAVA absentee ballots be received by 7:30 p.m. on Election Day, all of which apply directly to OH-09 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0ls4t5t",
+        "headline": "Ohio election officials warn against Trump's mail-in ballot changes",
+        "sourceName": "Ohio Capital Journal",
+        "url": "https://ohiocapitaljournal.com/2026/09/01/ohio-election-officials-warn-against-trumps-mail-in-ballot-changes/",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "Ohio election officials urge voters to rely on state and county election offices for accurate information about mail-in ballot procedures in light of proposed federal-level changes, underscoring for OH-09 voters that Ohio’s current mail ballot rules and county board guidance remain the authoritative source for absentee voting in November.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0hjow7a",
+        "headline": "What you need to know to vote in the November 2026 general election",
+        "sourceName": "WOSU",
+        "url": "https://www.wosu.org/2026-08-31/what-you-need-to-know-to-vote-in-the-november-2026-general-election?_amp=true",
+        "publishedAt": "2026-08-31",
+        "relevanceSummary": "This statewide voter guide details Ohio’s procedures for voting by mail, including the requirement to request an absentee ballot, deadlines for ballot return, and rules for in-person voting such as acceptable photo ID with an unexpired date and name matching the poll book—core information for OH-09 voters preparing for the November general election.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0dai6ww",
+        "headline": "Sound of Ideas Reporters Roundtable | Proof-of-citizenship will not be required for Ohio BMV voter registration for now",
+        "sourceName": "PBS / Ideastream Public Media",
+        "url": "https://www.pbs.org/video/proof-of-citizenship-will-not-be-required-for-ohio-bmv-voter-registration-for-now-sgyufr/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Reporters explain that, due to a recent court ruling, Ohio voters registering at the BMV before the October 5 deadline do not need to bring citizenship documents, and confirm that mail-in voting and early voting starting October 6 remain available under existing procedures—information directly applicable to OH-09 voters planning how and when to register and cast ballots.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0xapski",
+        "headline": "Ohio's voter citizenship law put on hold before deadline",
+        "sourceName": "Rolling Out",
+        "url": "https://rollingout.com/2026/08/27/ohios-voter-citizenship-law-put-on-hold/",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This article explains that an Ohio law requiring proof of citizenship for voter registration at Bureau of Motor Vehicles offices has been temporarily halted by a federal judge, clarifying for OH-09 voters that they do not need to show citizenship paperwork at the BMV in the weeks leading up to the October 5 registration cutoff.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0j44djj",
+        "headline": "Judge blocks Ohio law requiring citizenship proof for voter registration",
+        "sourceName": "The Columbus Dispatch",
+        "url": "https://www.dispatch.com/story/news/politics/2026/08/26/ohio-voter-registration-citizenship-law-blocked/91471680007/",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "A federal judge has blocked Ohio’s new requirement that residents show documentary proof of citizenship when registering to vote at motor vehicle offices, meaning OH-09 voters can register at the BMV without citizenship documents ahead of the October 5 registration deadline while the injunction is in effect.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0id9pza",
+        "headline": "Ohio Gov. DeWine responds to questions on voter ID, mail-in ballot rulings",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/videos/ohio-gov-dewine-responds-questions-200400397.html",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "Gov. Mike DeWine states that he does not expect changes to Ohio’s existing voter ID and mail-in voting plans following recent court decisions, signaling that current statewide rules for identification at the polls and mail voting will govern the November election for voters in OH-09.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0zbvlp8",
+        "headline": "Ohio election officials say nothing's changed with mail voting after U.S. Supreme Court ruling",
+        "sourceName": "WTOL",
+        "url": "https://www.wtol.com/article/news/politics/elections/ohio-election-officials-say-nothing-changes-with-mail-in-voting-after-us-supreme-court-ruling/512-2fd9ced5-7077-4e3f-ab2f-1207fc574c14",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "Ohio election officials, including the Lucas County Board of Elections director, emphasize that despite the U.S. Supreme Court ruling and federal-level changes, Ohio’s absentee and mail-in ballot procedures remain unchanged for now, including the Oct. 27 deadline for absentee applications and the requirement that ballots reach county boards by 7:30 p.m. on Election Day—rules that apply directly to OH-09 voters.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-oh09-auto",
-      "startedAt": "2026-08-26T05:03:43.801Z",
-      "completedAt": "2026-08-26T05:05:40.200Z",
+      "id": "run-2026-09-02-oh09-auto",
+      "startedAt": "2026-09-02T08:53:48.045Z",
+      "completedAt": "2026-09-02T08:55:51.526Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 25,
-      "updatesCreated": 5,
+      "sourcesChecked": 26,
+      "updatesCreated": 8,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for OH-09. Sources checked: 25. LLM verifications: 16. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-09-02 for OH-09. Sources checked: 26. LLM verifications: 16. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T05:05:40.200Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:55:51.526Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
