@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T09:08:55.196Z",
-  "exportedAt": "2026-09-09T09:21:42.737Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:40:05.219Z",
+  "exportedAt": "2026-09-16T09:53:14.735Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -73,7 +73,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-oh-sos-voter-portal": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -1296,20 +1296,100 @@
         "relevanceSummary": "This statewide explainer details that Ohio voters, including those in OH-09, will receive official absentee ballot applications by mail, outlines which identification numbers or photocopies are acceptable on the form, and reiterates that completed absentee ballots must be received by county boards or deposited in secure 24‑hour drop boxes by 7:30 p.m. on Election Day.[5]",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0c5kdcl",
+        "headline": "What the Supreme Court's mail-ballot ruling means for Ohio voters",
+        "sourceName": "10TV",
+        "url": "https://www.10tv.com/article/news/local/ohio/supreme-court-mail-ballot-ruling-ohio-voters-trump/530-dd262f9a-90ba-4c4d-b89c-1cac3a6009a7",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "This article explains how a recent Supreme Court decision affects Ohio’s mail-ballot rules, detailing that absentee ballots are not automatically sent, the ID and signature checks required when requesting and returning mail ballots, and the new deadline requiring regular absentee ballots to be received by county boards by 7:30 p.m. on Election Day—procedures that directly govern OH-09 voters.[11]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-003ivnf",
+        "headline": "Are you prepared to vote? Cuyahoga County Board of Elections holding education events this week",
+        "sourceName": "cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/09/are-you-prepared-to-vote-cuyahoga-county-board-of-elections-holding-education-events-this-week.html",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This county‑level report describes voter education events by the Cuyahoga County Board of Elections, including opportunities for voters to register or update their information in person, offering practical voter‑registration and information resources that illustrate how Ohio county boards support election procedures relevant to OH‑09 voters by precedent.[5]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-00cfrhh",
+        "headline": "Ohio elections chief unsurprised by high court's mail ballot decision",
+        "sourceName": "The Blade",
+        "url": "https://www.toledoblade.com/local/politics/2026/09/15/ohio-elections-chief-unsurprised-high-courts-mail-ballot-decision/stories/20260915092",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Covering comments from Ohio’s Secretary of State, this piece explains the start of early voting for overseas and military voters, and emphasizes Ohio’s work to maintain accurate voter rolls and validate identity before mailing absentee ballots, clarifying security and administrative steps that govern mail voting for OH‑09 residents.[6]",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0dp6y6f",
+        "headline": "2026 general election voter guide: How to register to vote, request an absentee ballot in Ohio",
+        "sourceName": "FOX 8",
+        "url": "https://fox8.com/news/2026-general-election-voter-guide-how-to-register-to-vote-request-an-absentee-ballot-in-ohio/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This statewide voter guide explains how Ohio voters, including those in OH-09, can register to vote, request and return absentee (mail-in) ballots, and what forms of ID are required for in‑person and mail voting, including the new 2026 rule that absentee ballots must be received (not just postmarked) by 7:30 p.m. on Election Day.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0lusb16",
+        "headline": "Important dates ahead of Ohio's Nov. 3 General Election",
+        "sourceName": "Ohio Society of CPAs (ohiocpa.com)",
+        "url": "https://ohiocpa.com/get-involved/news/2026/09/11/important-dates-ahead-of-ohio-s-nov.-3-general-election",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "This statewide notice lists key dates for Ohio's November 3 general election, such as registration and absentee‑request deadlines and the start of early voting, giving OH‑09 voters a consolidated view of procedural timelines they must meet to participate.[12]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0fr73ow",
+        "headline": "Ohio absentee voting remains unchanged after federal appeals court ruling",
+        "sourceName": "cleveland.com",
+        "url": "https://www.cleveland.com/open/2026/09/ohio-absentee-voting-remains-unchanged-after-federal-appeals-ruling.html",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "Following a federal appeals court ruling, this piece clarifies that Ohio’s absentee voting procedures—how to apply for a ballot using Secretary of State or county board forms, mailing timelines for military/overseas and other voters, and the requirement that completed absentee ballots be received by county boards by 7:30 p.m. on Election Day or dropped in official 24‑hour drop boxes—remain in force for all Ohio voters, including OH‑09.[2]",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0ndsif0",
+        "headline": "Ohio prepping nearly 40,000 election workers for November, including training on identity verification",
+        "sourceName": "cleveland.com",
+        "url": "https://www.cleveland.com/open/2026/09/ohio-prepping-nearly-40000-election-workers-for-november-including-training-on-identity-verification.html",
+        "publishedAt": "2026-09-09",
+        "relevanceSummary": "This article details statewide training for nearly 40,000 Ohio election workers on identity verification and mail voting procedures, confirming that voters can request absentee ballots now and that ballots must be returned to county boards by poll close on November 3, affecting how OH‑09 polling locations and mail‑ballot processing will operate.[4]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0rfnfty",
+        "headline": "Ohio early in-person voting is scheduled to begin October 6",
+        "sourceName": "WHIO",
+        "url": "https://www.whio.com/news/local/ohio-early-in-person-voting-is-scheduled-begin-october-6/QMJIOQXMSVD73NYXSW6KNQBL6I/",
+        "publishedAt": "2026-09-09",
+        "relevanceSummary": "This statewide report outlines Ohio’s three voting options—Election Day in‑person, early in‑person, and absentee by mail—and describes the two‑step identity verification process for absentee voters and online ballot tracking, giving OH‑09 voters key dates and security procedures for casting and monitoring their ballots.[3]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-oh09-auto",
-      "startedAt": "2026-09-09T09:06:46.421Z",
-      "completedAt": "2026-09-09T09:08:55.196Z",
+      "id": "run-2026-09-16-oh09-auto",
+      "startedAt": "2026-09-16T09:38:03.719Z",
+      "completedAt": "2026-09-16T09:40:05.219Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 26,
-      "updatesCreated": 7,
-      "conflictsCreated": 0,
+      "sourcesChecked": 24,
+      "updatesCreated": 8,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for OH-09. Sources checked: 26. LLM verifications: 16. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for OH-09. Sources checked: 24. LLM verifications: 15. 3 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T09:08:55.196Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:40:05.219Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
