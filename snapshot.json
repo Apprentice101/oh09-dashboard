@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:40:05.219Z",
-  "exportedAt": "2026-09-16T09:53:14.735Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:29:22.215Z",
+  "exportedAt": "2026-09-23T09:39:24.652Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -1376,20 +1376,90 @@
         "relevanceSummary": "This statewide report outlines Ohio’s three voting options—Election Day in‑person, early in‑person, and absentee by mail—and describes the two‑step identity verification process for absentee voters and online ballot tracking, giving OH‑09 voters key dates and security procedures for casting and monitoring their ballots.[3]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0n7fd1a",
+        "headline": "Picture This: Issue 3 Puts Strict Photo ID on the Ballot",
+        "sourceName": "ACLU of Ohio",
+        "url": "https://www.acluohio.org/news/picture-this-issue-3-puts-strict-photo-id-on-the-ballot/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "This statewide Ohio article discusses Issue 3 and its potential effect on Ohio photo-identification requirements. Any change would apply to voters in OH-09, making the measure relevant to in-person voting procedures.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-04a4wid",
+        "headline": "Ohio early voting starts soon, but voters can already see sample ballots",
+        "sourceName": "The Columbus Dispatch",
+        "url": "https://www.dispatch.com/story/news/politics/elections/2026/09/22/see-ohio-sample-ballot-election-day-2026/91887333007/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "Ohio voters can review their sample ballots before Election Day, helping OH-09 voters confirm ballot contents and voting choices. The article also states that absentee applications are due by 8:30 p.m. October 27 and completed absentee ballots by 7:30 p.m. November 3.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0uqgs44",
+        "headline": "Ohio secretary of state urges voters to confirm registration ahead of October deadline",
+        "sourceName": "cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/09/ohio-secretary-of-state-urges-voters-to-confirm-registration-ahead-of-october-deadline.html",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "Ohio Secretary of State guidance directly applies to OH-09 voters and urges them to verify registration before the election. The article also reiterates that requested absentee ballots begin mailing October 6 and identifies October 27 as the absentee-application deadline.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0lvpwis",
+        "headline": "Some Ohio early voting starts today, but when is the voting deadline?",
+        "sourceName": "The Columbus Dispatch",
+        "url": "https://www.dispatch.com/story/news/politics/elections/2026/09/18/ohio-voting-deadlines-midterm-election-day-2026/91808461007/",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "The article provides statewide Ohio voting deadlines relevant to OH-09 voters: absentee applications must reach a county board by 8:30 p.m. October 27, and completed absentee ballots generally must arrive by 7:30 p.m. November 3.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0p1bh0m",
+        "headline": "What to do if you didn't get an Ohio absentee ballot form in the mail",
+        "sourceName": "The Cincinnati Enquirer",
+        "url": "https://www.cincinnati.com/story/news/politics/2026/09/17/what-if-i-didnt-get-an-ohio-absentee-ballot-request-in-the-mail/91715176007/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The statewide Ohio guidance applies to OH-09 voters who did not receive an absentee-ballot application. Voters can download an application from the Ohio Secretary of State and submit it to their county board of elections.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0b94yih",
+        "headline": "Absentee voting rules set with Supreme Court decision, first ballots go out Friday: What to know",
+        "sourceName": "cleveland.com",
+        "url": "https://www.cleveland.com/open/2026/09/absentee-voting-rules-set-with-supreme-court-decision-first-ballots-go-out-friday-what-to-know.html",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "Ohio voters, including those in OH-09, can request absentee ballots by submitting a signed application to their county board of elections by October 27. The article explains accepted identification, including the last four Social Security digits, an Ohio license or state ID number, or a copy of acceptable photo ID, and says completed ballots must arrive by 7:30 p.m. on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0xpnu8z",
+        "headline": "Supreme Court rejects Trump's mail-in vote order, central Ohio elections officials relieved",
+        "sourceName": "Reuters",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_MT1USDAYNETOH91773149007?channel=iae739",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "The article reports that the U.S. Supreme Court rejected an order affecting mail-in voting and that Ohio election officials expect absentee voting procedures to remain largely unchanged this fall. That statewide procedural continuity applies to OH-09 voters.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-oh09-auto",
-      "startedAt": "2026-09-16T09:38:03.719Z",
-      "completedAt": "2026-09-16T09:40:05.219Z",
+      "id": "run-2026-09-23-oh09-auto",
+      "startedAt": "2026-09-23T09:28:00.956Z",
+      "completedAt": "2026-09-23T09:29:22.215Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 24,
-      "updatesCreated": 8,
+      "sourcesChecked": 26,
+      "updatesCreated": 7,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for OH-09. Sources checked: 24. LLM verifications: 15. 3 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-09-23 for OH-09. Sources checked: 26. LLM verifications: 16. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:40:05.219Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:29:22.215Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
