@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:29:22.215Z",
-  "exportedAt": "2026-09-23T09:39:24.652Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:28:55.097Z",
+  "exportedAt": "2026-09-30T10:39:44.507Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -73,7 +73,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-oh-sos-voter-portal": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -1446,20 +1446,90 @@
         "relevanceSummary": "The article reports that the U.S. Supreme Court rejected an order affecting mail-in voting and that Ohio election officials expect absentee voting procedures to remain largely unchanged this fall. That statewide procedural continuity applies to OH-09 voters.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0mfhcl8",
+        "headline": "Ohio election officials urge voters to check registration, ID and polling details now",
+        "sourceName": "Dayton 24/7 Now",
+        "url": "https://dayton247now.com/news/local/ohio-election-officials-urge-voters-to-check-registration-id-and-polling-details-now",
+        "publishedAt": "2026-09-30",
+        "relevanceSummary": "Ohio election officials are urging voters to verify registration, identification requirements, and polling-place information before voting. The guidance applies statewide, including voters in OH-09, and encourages voters to decide in advance whether to vote early or request an absentee ballot.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-01kyehj",
+        "headline": "2026 Ohio Midterm Election Guide: Key deadlines, races ...",
+        "sourceName": "10TV",
+        "url": "https://www.10tv.com/article/news/politics/elections/2026-ohio-midterm-election-voter-guide/530-681b6a6c-7f37-4bde-8e02-a8cbcd46e090",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The guide states that Ohio voter registration closes October 5, absentee voting begins October 6, absentee-ballot applications are due by 8:30 p.m. October 27, and completed absentee ballots must reach the county board by 7:30 p.m. November 3. These statewide deadlines apply directly to OH-09 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0jvlf5n",
+        "headline": "Election 2026: What's different this election, and what you need to know to vote",
+        "sourceName": "Dayton Daily News",
+        "url": "https://www.daytondailynews.com/tncms/asset/editorial/3746dd52-1acd-4ec7-8d66-a994865e705a",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "This statewide Ohio voting guide covers polling hours, polling-location lookup, absentee-ballot application deadlines, the November 3 receipt deadline for mail ballots, and the post-election identification requirement for voters whose identification was not shown. These procedures apply to OH-09 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0yhh9r5",
+        "headline": "Ohio early voting dates to know ahead of Election Day 2026",
+        "sourceName": "The Columbus Dispatch",
+        "url": "https://www.dispatch.com/story/news/politics/elections/2026/09/28/ohio-early-voting-election-day-absentee-in-person-2026/91986979007/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "This statewide Ohio voter guide explains that registration ends October 5, absentee voting is available by application, and polls will be open from 6:30 a.m. to 7:30 p.m. on November 3. It also states that absentee ballots must reach the appropriate county board of elections by 7:30 p.m. on Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0ugysiz",
+        "headline": "Ohio Secretary of State eyes removal of more than 200,000 inactive voters in early 2027",
+        "sourceName": "Ideastream Public Media",
+        "url": "https://www.ideastream.org/government-politics/2026-09-25/ohio-secretary-of-state-eyes-removal-of-more-than-200-000-inactive-voters-in-early-2027",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "The Ohio Secretary of State is preparing a future voter-registration maintenance action, and the article directs voters to check registration information, sample ballots, early-voting and absentee-voting details, and polling locations. OH-09 voters can use these resources to verify their records before the election.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0oh342f",
+        "headline": "US appeals court reinstates Ohio law requiring voters to prove citizenship",
+        "sourceName": "Reuters",
+        "url": "https://www.reuters.com/legal/government/us-appeals-court-reinstates-ohio-law-requiring-voters-prove-citizenship-2026-09-24/",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "The Sixth U.S. Circuit Court of Appeals temporarily reinstated an Ohio law requiring documentary proof of citizenship for registration at state motor-vehicle offices. The decision directly concerns statewide registration procedures for voters in OH-09.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0ijw79d",
+        "headline": "Ohio can require proof of citizenship for voter registration at BMV",
+        "sourceName": "The Columbus Dispatch",
+        "url": "https://www.dispatch.com/story/news/politics/2026/09/24/ohio-proof-citizenship-voter-registration-court-ruling/91918534007/",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "A federal appeals court panel ruled that Ohio may require documentary proof of citizenship when residents register to vote at Bureau of Motor Vehicles offices. The statewide ruling can affect voter-registration procedures used by OH-09 residents.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-oh09-auto",
-      "startedAt": "2026-09-23T09:28:00.956Z",
-      "completedAt": "2026-09-23T09:29:22.215Z",
+      "id": "run-2026-09-30-oh09-auto",
+      "startedAt": "2026-09-30T10:27:41.085Z",
+      "completedAt": "2026-09-30T10:28:55.097Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 26,
+      "sourcesChecked": 13,
       "updatesCreated": 7,
-      "conflictsCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for OH-09. Sources checked: 26. LLM verifications: 16. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-09-30 for OH-09. Sources checked: 13. LLM verifications: 13. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:29:22.215Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:28:55.097Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
