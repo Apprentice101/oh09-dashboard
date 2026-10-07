@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:28:55.097Z",
-  "exportedAt": "2026-09-30T10:39:44.507Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T11:05:02.298Z",
+  "exportedAt": "2026-10-07T11:14:54.433Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-10-07",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -1516,20 +1516,100 @@
         "relevanceSummary": "A federal appeals court panel ruled that Ohio may require documentary proof of citizenship when residents register to vote at Bureau of Motor Vehicles offices. The statewide ruling can affect voter-registration procedures used by OH-09 residents.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-02fi5dw",
+        "headline": "Early voting begins in Ohio",
+        "sourceName": "WSAZ",
+        "url": "https://www.wsaz.com/2026/10/06/early-voting-begins-ohio/",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "This statewide report explains Ohio's photo-ID requirement and the process for requesting a mail ballot, including the October 27 absentee-ballot application deadline. Those rules apply directly to voters in OH-09.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0vi1l5m",
+        "headline": "Ohio Decides: Everything you need to know to cast your ballot",
+        "sourceName": "Cleveland 19 News",
+        "url": "https://www.cleveland19.com/2026/10/06/ohio-decides-everything-you-need-know-cast-your-ballot/",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The article states that Ohio absentee-ballot applications are due to county boards by 8:30 p.m. on October 27 and that completed absentee ballots must be returned by 7:30 p.m. on Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-06xuxh9",
+        "headline": "Early voting is underway in Ohio. What to know before you vote in the November 2026 election",
+        "sourceName": "WVXU",
+        "url": "https://www.wvxu.org/2026-10-06/early-voting-is-underway-in-ohio-heres-what-to-know-before-you-vote-in-the-november-2026-election",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The statewide procedural article says a new Ohio law requires absentee ballots to be in the county board of elections ballot box by poll closing on Election Day and explains that voters can use their county drop box.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0ds11ol",
+        "headline": "How to vote in Ohio's 2026 midterm election",
+        "sourceName": "WOSU",
+        "url": "https://www.wosu.org/politics-government/2026-10-06/how-to-vote-in-ohios-2026-midterm-election",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "This statewide Ohio voter guide explains early-voting dates, absentee-ballot return requirements, and acceptable photo identification. It also notes that voters without acceptable ID may cast a provisional ballot, making it directly relevant to OH-09 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0j4gglq",
+        "headline": "Good election turnout expected in Mahoning, Trumbull",
+        "sourceName": "The Vindicator",
+        "url": "https://www.vindy.com/news/local-news/2026/10/good-election-turnout-expected-in-mahoning-trumbull/",
+        "publishedAt": "2026-10-03",
+        "relevanceSummary": "County-level coverage explains that all ballots, including mailed ballots, must arrive at county boards by 7:30 p.m. on November 3 under an Ohio law that took effect with the primary. The statewide deadline is relevant to OH-09 voters even though the counties are outside the district.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0i3zb5b",
+        "headline": "Election 2026: What's different this election, and what you need to know to vote",
+        "sourceName": "Springfield News-Sun",
+        "url": "https://www.springfieldnewssun.com/local/election-2026-what-s-different-this-election-and-what-you-need-to-know-to-vote/article_1c7160b1-17f5-55df-a4eb-6e6fd04191fe.html",
+        "publishedAt": "2026-10-03",
+        "relevanceSummary": "This Ohio election guide covers polling hours, early voting, absentee-ballot applications, and the 7:30 p.m. Election Day deadline for ballots and drop-box returns. These statewide procedures apply to OH-09 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0nzcs4e",
+        "headline": "Early voting starts Tuesday in Cuyahoga County: What you need to know",
+        "sourceName": "cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/10/early-voting-starts-tuesday-in-cuyahoga-county-what-you-need-to-know.html",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The county-level report identifies the Cuyahoga County Board of Elections as a location for returning mail ballots and voting in person beginning October 1. It provides Ohio election-administration context relevant to OH-09 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-oh09-0e088gc",
+        "headline": "Ohio early voting 2026: Dates, hours, voter ID rules and northwest Ohio locations",
+        "sourceName": "WTOL 11",
+        "url": "https://www.wtol.com/article/news/politics/elections/ohio-early-voting-2026-dates-hours-id-locations/512-09e824d2-e351-4ae2-88cd-1644b7a2f735",
+        "publishedAt": "2026-09-30",
+        "relevanceSummary": "The article details Ohio early-voting dates, accepted photo IDs, and the rule that voters must vote early in their county of registration. It also explains provisional voting and the post-election identification period for voters lacking acceptable ID.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-oh09-auto",
-      "startedAt": "2026-09-30T10:27:41.085Z",
-      "completedAt": "2026-09-30T10:28:55.097Z",
+      "id": "run-2026-10-07-oh09-auto",
+      "startedAt": "2026-10-07T11:03:49.293Z",
+      "completedAt": "2026-10-07T11:05:02.298Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
-      "updatesCreated": 7,
-      "conflictsCreated": 0,
+      "sourcesChecked": 26,
+      "updatesCreated": 8,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for OH-09. Sources checked: 13. LLM verifications: 13. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for OH-09. Sources checked: 26. LLM verifications: 16. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:28:55.097Z",
+    "NEXT_REFRESH_AT": "2026-10-14T11:05:02.298Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
