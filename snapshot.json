@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-21",
-  "updatedAt": "2026-10-21T09:15:36.969Z",
-  "exportedAt": "2026-10-21T09:24:16.866Z",
+  "dataAsOf": "2026-10-28",
+  "updatedAt": "2026-10-28T10:20:36.259Z",
+  "exportedAt": "2026-10-28T10:26:07.475Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-28",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -170,7 +170,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-10-28",
         "confidence": "high"
       },
       "src-toledo-blade": {
@@ -1749,17 +1749,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-21-oh09-auto",
-      "startedAt": "2026-10-21T09:14:48.618Z",
-      "completedAt": "2026-10-21T09:15:36.969Z",
+      "id": "run-2026-10-28-oh09-auto",
+      "startedAt": "2026-10-28T10:20:31.920Z",
+      "completedAt": "2026-10-28T10:20:36.259Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
-      "updatesCreated": 7,
+      "sourcesChecked": 26,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-21 for OH-09. Sources checked: 13. LLM verifications: 13. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-28 for OH-09. Sources checked: 26. LLM verifications: 17. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-28T09:15:36.969Z",
+    "NEXT_REFRESH_AT": "2026-11-04T10:20:36.259Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
