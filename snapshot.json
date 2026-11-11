@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-04",
-  "updatedAt": "2026-11-04T11:47:15.902Z",
-  "exportedAt": "2026-11-04T11:52:08.626Z",
+  "dataAsOf": "2026-11-11",
+  "updatedAt": "2026-11-11T11:38:33.294Z",
+  "exportedAt": "2026-11-11T11:45:28.420Z",
   "districtCode": "OH-09",
   "data": {
     "DISTRICT": {
@@ -97,7 +97,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-11-04",
+        "lastVerified": "2026-11-11",
         "confidence": "high"
       },
       "src-lucas-boe": {
@@ -109,7 +109,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-11-04",
+        "lastVerified": "2026-11-11",
         "confidence": "high",
         "notes": "Lucas County is the most populous county in OH-09, encompassing Toledo and surrounding area."
       },
@@ -170,7 +170,7 @@
         "sourceType": "secondary",
         "hierarchyLevel": 4,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-11-04",
+        "lastVerified": "2026-11-11",
         "confidence": "high"
       },
       "src-toledo-blade": {
@@ -1749,17 +1749,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-04-oh09-auto",
-      "startedAt": "2026-11-04T11:47:12.949Z",
-      "completedAt": "2026-11-04T11:47:15.902Z",
+      "id": "run-2026-11-11-oh09-auto",
+      "startedAt": "2026-11-11T11:38:28.762Z",
+      "completedAt": "2026-11-11T11:38:33.294Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 26,
+      "sourcesChecked": 28,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-04 for OH-09. Sources checked: 26. LLM verifications: 20. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-11 for OH-09. Sources checked: 28. LLM verifications: 20. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-11T11:47:15.902Z",
+    "NEXT_REFRESH_AT": "2026-11-18T11:38:33.294Z",
     "WEEKLY_REPORT": {
       "id": "wr-oh09-2026-w24",
       "periodStart": "2026-06-08",
